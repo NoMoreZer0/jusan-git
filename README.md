@@ -13,7 +13,9 @@
 
 ## Запуск
 
-`bash ./script.sh`
+`bash ./script.sh` - Выводит ID
+
+`bash ./username.sh` - Выводит имя
 
 ## Портирование
 
